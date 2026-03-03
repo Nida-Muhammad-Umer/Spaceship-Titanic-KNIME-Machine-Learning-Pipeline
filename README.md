@@ -100,11 +100,11 @@ You can download and run the full KNIME workflow from repository.
 
 ## What This Project Demonstrates
 
-✔ End-to-end ML pipeline design  
-✔ Data cleaning & transformation  
-✔ Model selection & evaluation  
-✔ Overfitting control  
-✔ Deployment-ready output generation  
+End-to-end ML pipeline design  
+Data cleaning & transformation  
+Model selection & evaluation  
+Overfitting control  
+Deployment-ready output generation  
 
 ---
 
